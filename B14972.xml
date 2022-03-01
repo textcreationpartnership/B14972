@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Corante, or weekely newes from Italy, Germany, Hungary, Poland, Bohemia, France and the Low Countreys</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14972</idno>
+            <idno type="STC">STC 18507.30</idno>
+            <idno type="STC">ESTC S119544</idno>
+            <idno type="EEBO-CITATION">99854751</idno>
+            <idno type="PROQUEST">99854751</idno>
+            <idno type="VID">177437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177437)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1133:7u)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Corante, or weekely newes from Italy, Germany, Hungary, Poland, Bohemia, France and the Low Countreys</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>For N. B[utter] according to the Dutch copy,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>the 30. of Septemb. 1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title. Printer's name from STC.</note>
+                  <note>Formerly STC 5748.</note>
+                  <note>Identified as STC 5748a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Bound and filmed with other issues.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="news">
+            <pb facs="tcp:177437:1" rendition="simple:additions"/>
+            <head>Corante, or weekely newes from <hi>Italy, Germany, Hungary, Poland, Bohemia, France</hi> and the <hi>Low Countreys.</hi>
+            </head>
+            <div type="entry">
+               <head>From Vienna the 2. of September. 1621.</head>
+               <p>FRrom Vienna is written the <hi>2.</hi> hereof, that <hi>1000</hi> of the Emperors ſouldiers horſe and loote, were ſent out of his army with <hi>500.</hi> waggons to the Hoye to fetch in forrage, and hauing laden their wagons with hay, corne, and oates, were ſet vpon by the Hungers: who though they enſconced themſelues within their wagons, and ſtoutly defende them, yet in the end, the Hungars ouercame and fiue them, ſet fire on the wagons, tooke many priſoners and few eſcaped.</p>
+               <p>The garriſon in Preſburge are <hi>5000.</hi> ſtrong who defend the towne valiantly hauing ſallied out vp<g ref="char:EOLhyphen"/>on <hi>Bethlems</hi> army, and ſet vpon thoſe that lay en<g ref="char:EOLhyphen"/>ſconced in the ſuburbs, beat and ſlue <hi>200.</hi> of them &amp; nayled vp foure peeces of artillery being not able to carry them away, yet finding themſelues too weake to ſtay, hauing loſt many of their company were glad to retire. The like attempt they made yeſterday vpon the ſconce of <hi>Bethlems</hi> at my, but with the loſſe of ma<g ref="char:EOLhyphen"/>ny of the Neapolitans were forced to retire. In the meane time the Budian Hungers rob and ranſack the countrey euen within two miles of this citty Vienna, all ouer betweene that and Newſtad, where they haue burnt downe to the ground <hi>20.</hi> of the Em<g ref="char:EOLhyphen"/>perors ſpeciall villages and dorpes, killed many of the people, driuing away the cattle with them, very pittifull to behold. So as in theſe quarters no body tarryeth in any pariſhes or hamlets, and there is no ſafe paſſing to Newſtad and Stermarke: vnto theſe proceedings there is none to oppoſe, which maketh this city to be peſtered with beggars and poore people where many ſtarue with hunger, whereby appeareth the wrath of God to be ouer theſe countries.</p>
+            </div>
+            <div type="entry">
+               <head>From Vienna the 4. of September.</head>
+               <p>FRom Vienna is alſo written, that many people going to S. <hi>Mary</hi> cloyſter to be ſhriuen, the Hun<g ref="char:EOLhyphen"/>gars fell vpon and ſlue them. And preſent newes is come, that <hi>Bethlem</hi> hauing formerly left Iagerenſ-dorfein his ſtead in the army, was riſen and marched to meete with the Spaniards, appointed out of <hi>Mo<g ref="char:EOLhyphen"/>rauia</hi> to march to the Schat, and meeting them ſet vpon them all. The Emperour hath alſo ſent <hi>10.</hi> en<g ref="char:EOLhyphen"/>ſignes of countrey people to the towne of Lintz to guard the countrey about Enſe (formarly mor<g ref="char:EOLhyphen"/>gaged to Bauaria by the Emperour) from the inua<g ref="char:EOLhyphen"/>ſion of the Hungers.</p>
+            </div>
+            <div type="entry">
+               <head>From Prague the 2. of September.</head>
+               <p>FRom Prague is written of the ſecond hereof that the Burgers in al the three townes of Prague are warned to appeare at the towne hall, where euery one (eſpecially the companies) that they out of the ſtockes, and euery Burger to his vttermoſt power and ability to take care to be well prouided of ſtore of victuals, to the end leaſt by this ſorrowfull warre we fall into great neceſſity, the rather by reaſon of the continuance of the robberies and ranſackings vp<g ref="char:EOLhyphen"/>on the paſſages. As alſo but the other day certaine waggons with merchanoiſe within a mile of this cit<g ref="char:EOLhyphen"/>ty were taken and ſpoyled. Wherefore it is thought meet to haue <hi>1000.</hi> horſemen leuyed to ſerue there at the charge of Burgers. It is alſo written fro<g ref="char:cmbAbbrStroke">̄</g> Prague the towne of Tabor in Bohemia (ſo long beſiegd by <hi>Baltazar</hi>) hauing preuailed nothing, will leaue it, the moſt of the countrey people being run away, hauing loſt many of his ſmall army in the laſt aſſault.</p>
+            </div>
+            <div type="entry">
+               <head>From Vienna the 3. of September.</head>
+               <p>FRom Vienna is alſo written that the coyne is raiſed by publicke proclamation, to wit, the ducket valued at <hi>5.</hi> Florens, the gold crowne at <hi>4.</hi> Florens and ten crutzets, the gold doller at <hi>3.</hi> Florens and <hi>40</hi> trutzers, the <hi>Philips</hi> doller at <hi>3.</hi> Florins, and <hi>30.</hi> crut<g ref="char:EOLhyphen"/>zers, the Rex doller at <hi>3.</hi> Florins and <hi>15.</hi> c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>utzars, and the golden Doller at <hi>2.</hi> Florins and <hi>50</hi> crutzers.</p>
+            </div>
+            <div type="entry">
+               <head>From Weydhauſin the 6. of September.</head>
+               <p>FRom the townes of Ambergh in the vpper Paits <hi>3.</hi> Weydhayſin is little written, onely that <hi>Mans fields</hi> with <hi>8.</hi> peeces of ordinance ſent him, ſhot out of his ſconce, hath ſpoyles and mard <hi>4.</hi> péeces of the Bauers artillery, whereupon they haue left of ſhoo<g ref="char:EOLhyphen"/>ting, &amp; in ſetting their watch without ſtroke of drum or triumphing as they were wont, no maruell for in both armyes they die many of the bloody flixe: there Centinels on both fides watch ſo neere on to the o<g ref="char:EOLhyphen"/>ther, as they talke to one another; the Bauars ſoul<g ref="char:EOLhyphen"/>diers ſhrinke away dayly, and there is exſpectation of the <hi>2.</hi> Colonels <hi>Bawr</hi> and <hi>Smith</hi> and their two regi<g ref="char:EOLhyphen"/>ments in a while remooue (to <hi>Mansfield</hi>) hauing great want of victuals and water. There is ſome at<g ref="char:EOLhyphen"/>te<g ref="char:cmbAbbrStroke">̄</g>pt to bedon ere long, for there are ſeueral Ambaſ<g ref="char:EOLhyphen"/>ſadors come fyom <hi>Blethlem Gabor,</hi> Prince <hi>Maurice</hi> and other Potentates to <hi>Mansfield.</hi>
+               </p>
+               <p>The Emperor hath written to the city of Nurem<g ref="char:EOLhyphen"/>burge commanding them vpon a great penalty to ſuffer no victuals to paſſe to <hi>Mansfields</hi> army, wher<g ref="char:EOLhyphen"/>upon <hi>Mansfield</hi> hath taken order to make price of all Nuremburgers, ſo as no man dares looke out of the gates, as alſo they can ſend no goods to Frankford-being already diuers wagons taken with goods com<g ref="char:EOLunhyphen"/>ming to Nuremburge.</p>
+            </div>
+            <div type="entry">
+               <head>From Weſell the 8. of September,</head>
+               <p>THe Marqueſſe <hi>Spinola</hi> at his comming to We<g ref="char:EOLhyphen"/>ſell, thought here and there to worke wonders, but the coming of the illuſtrious Prince of Orange, whoſe eye pries ſo narrowly into his prodeedings, as he knowes not where to begin, and therefore hath ſent moſt of his army to Guylicke, where he will bée as well looked vnto as he was at Weſell, and will find Gulicke furniſhed with famous experienced ſouldiers; and ſo farre as we it perceiue, the army he hath there is not ſufficient wholy to beſiege it, but if he can get it with threatnings to hang them if he get it, as he got the caſtle of Reede by Gulicke by like threateinge: but captaine <hi>Ditford</hi> the commaun<g ref="char:EOLhyphen"/>der thereof is taken and brought to the Princes ar<g ref="char:EOLhyphen"/>my, and there loſt his head by ſentence of the Court of warre, his Lieftenant and Ancient are in priſon.</p>
+               <p>The towne of Gulick is beſieged vpon on ſide by the graue Vandenbergh, but <hi>2.</hi> gates of the town ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> free to go in and out without let. They haue made a ſally out vpon the enemy, and ſkirmiſhed with them, which the Spaniard had a ſower taſt of, wherein the
+<pb facs="tcp:177437:2"/>towne loſt a Lieftenant Colonell. The towne plyeth the enemy with their artillery, but they come neare with their frenches, and exſpect out of Flanders from diuers parts more forces.</p>
+            </div>
+            <div type="entry">
+               <head>From Breſlaw the 2. of September.</head>
+               <p>FRom the towne of Breſlaw is written, that the Lords and States of Silecia contune their leauy<g ref="char:EOLhyphen"/>ing of ſouldiers to reſiſt <hi>Bethlem Gabor</hi> and <hi>Iage<g ref="char:EOLhyphen"/>renſdorſe.</hi> From who<g ref="char:cmbAbbrStroke">̄</g> they haue receiued threatning letters, that if they conforme not themſelues to the deuotion of King <hi>Fredericke,</hi> they are to exſpect them with fire &amp; ſword, which reſolution is yet vnknown is the people. There comes dayly more people into the land, and already march towards the towne of Glotſe to beſiege it wherin <hi>Iagerenſdorpe</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft <hi>800.</hi> ſouldiers and a yeares prouiſion of vict<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, and o<g ref="char:EOLhyphen"/>therwiſe ſo well prouided, as they feare not the ſiege of twenty thouſand men: likewiſe it is written that in Silecia dayly are ſeene wonderfull ſignes in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yre.</p>
+            </div>
+            <div type="entry">
+               <head>From Vienna the 7. of September.</head>
+               <p>FRom <hi>Vienna</hi> it is written that the bridge which the Turks cauſed to be made ouer the riuer of Da<g ref="char:EOLunhyphen"/>nube is finiſhed, and that he hath ſent his whole a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>my to a place in Poland, but left behind to guard the bridge <hi>50000.</hi> and there followeth him <hi>15000.</hi> carts or waggons with munition and victuals for the maine army, beſides he hath appodnted <hi>10000.</hi> Turks and Tartars to ranſacke the coun<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y, with whom the Caſſock Polaks being <hi>15000</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et, where betweene them was a great conflict, but the Polacks got the victory.</p>
+            </div>
+            <div type="entry">
+               <head>From Zurich in Switzerland the 1. of September.</head>
+               <p>FRom Zurich in Zwitzerland is written, that they with their confederate Griſons and Bunte<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s are marched towards Veltolin to ſet vpon the Spaniards and their confederats: it is alſo writ<g ref="char:EOLhyphen"/>ten from Geneua that the French King threatneth that town as others of y<hi rend="sup">e</hi> religion to proſecute them and that the Duke <hi>Leopaldus</hi> ſouldiers haue taken in Eugedin, the vilage and caſtle Rauin, and driuen away <hi>400.</hi> ſhéeps: alſo there marcheth dayly many ſouldiers of Loraine to the duke of Bauare.</p>
+               <p>Alſo it is written out of Switzorland, from the towne of Cleuen, thoſe of the religion in that towne hauing appointed ten dayes faſt and prayers, the Spaniard had a ſecret parpoſe to fall vpon them in their Churches with horſe and foot, which being diſco<g ref="char:EOLhyphen"/>uered to them by a Signal, put themſelues in arms, iſſued out, and méeting them, fought and fiue <hi>140.</hi> of them, among whom was a Neopolitane Captaine brought dead to Cleuen, and about him found in writing their whole conſpiracy.</p>
+            </div>
+            <div type="entry">
+               <head>From D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſwicke in Denmarke the 30. of Auguſt.</head>
+               <p>FRom Danſwicke the letters mention, that there aduice out of Holand is, that the Turk with his whole army is entred <hi>18</hi>-miles into Poland very ſtrongly, which cauſeth great feare in that countrey and thereupon they put them in armes man for man and the kings ſonne with an army of <hi>100000.</hi> appoin<g ref="char:EOLhyphen"/>ted to attend him. The head towne Rig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Lie<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>and is hardly beſiged by the king of Sweden, in ſuch ſort as they will be forced to yeeld. It is ſoyd alſo that the Emperor of Muſcoui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is alſo in armes to beſiege the towne of Smalenſke, taking aduantage of the Po<g ref="char:EOLhyphen"/>lonians preſent neceſſity of his forces againſt the Turke, that he cannot rayſe them.</p>
+            </div>
+            <div type="entry">
+               <head>From Gulicke the 10. of September.</head>
+               <p>IN <hi>Spinolas</hi> army is great want of forrage, where<g ref="char:EOLhyphen"/>by how longer the dearer, and little mony to pay, which cauſe his ſouldiers to run away. And out of Spaine it is ſayd that the Councell there haue con<g ref="char:EOLhyphen"/>cluded to ſend into the Netherlands a choyſe Noble<g ref="char:EOLhyphen"/>man to aſſiſt the Infanta in the gouernment. We vnderſtand from the Princes army that a Se<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ant of the enemies army was come away, who hath re<g ref="char:EOLhyphen"/>lated that he was practiſed withall to haue ſet on fire all the ſhips in the Waell at Amſterdam, which he refuſing, another by nane, Ammerathgin hath with other his confederates vnder taken it</p>
+               <p>And touching the enemies attempt vpon Iſendick and thoſe quarters neere ſluce, and repulſed by Gods hand, it is hoped it will proceed no further, the rather for that they fayled in their firſt purpoſe, and all pla<g ref="char:EOLhyphen"/>ces with ſouldiers are better prouided, whereunto the States of Holand haue indeuoured to pruent the enemy by ſending certaine companies of Burgers to Sluce to ſtrengthen that and the reſt, that where <hi>200</hi> were before, is now added <hi>300.</hi> more together with many luſty martiners. who labour in cutting of wals to let in water to ouerflow the low grounds. The e<g ref="char:EOLhyphen"/>enemy is ſayd to be at preſent betweene Haſte gras ſkonce and Sluce, where he would attempt to get in<g ref="char:EOLhyphen"/>to the Ile of Cadlant if he could to ſtraiten Sluce, but by the comming of the aforeſayd ſupplyes, and the care of the Prince of Orange in granting out of euery company in the army a certain number which he hath ſent, is hoped will ſuffice to fruſtrate the e<g ref="char:EOLhyphen"/>nemies purpoſe.</p>
+            </div>
+            <div type="entry">
+               <head>From Bergſtrate the 12. of September.</head>
+               <p>OUt of the Pallitynatis written of the <hi>10.</hi> herof, that the B. of Spier leuieth ſouldiers in Lorain to defend his countrey from the Palts; and general <hi>Vere</hi> is with his flying army horſe and foote gone to Briſtat and Bergſtrad, to lye there to attend the Spaniards iſſuing out of the Caſtle of Stein. The Spaniſh army lyeth enquartered about Rein Turk<g ref="char:EOLhyphen"/>ſeym, againſt hom Collonell <hi>Ney</hi> with his horſemen accompanyed with the garriſon of Frankendall and Norhem, which is reaſonable ſtrong. The Bores lye about Nachem in great number, who if they come in<g ref="char:EOLhyphen"/>to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eld, there is exſpected ſome conflict.</p>
+            </div>
+            <div type="entry">
+               <head>From Paris the 14. of September.</head>
+               <p>BY letters it is certified from Paris that they of Mountabon haue ſlaine of the kings forces <hi>16.</hi> Marqueſſes and Earles, and about <hi>300.</hi> other Com<g ref="char:EOLhyphen"/>manders, the Duke de Marqueſſe his brother and his kinſman are flaine, the next man to his owne perſon was beaten to péeces with a ſhot of great or<g ref="char:EOLhyphen"/>dinance. It is thought there hath bin neere <hi>4000.</hi> men <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aine on the kings ſide in this aſſault, where<g ref="char:EOLhyphen"/>upon they are ſo encouraged by their ancient Cap<g ref="char:EOLhyphen"/>taine Mounſieur de la Force that they cauſed to be ſet vpon the gates, <hi>La Roy Sans foy, la velle ſans plure:</hi> which is to ſay, a faithleſſe king, and feareleſſe ſubiects.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>N. B.</hi> according to the Dutch copy, the 30. of Septemb. 1621.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
